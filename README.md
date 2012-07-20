@@ -1,4 +1,4 @@
 TEST
 ====
 
-this is purely a test to help me learn git better
+this is entirly a test to help me learn git better
